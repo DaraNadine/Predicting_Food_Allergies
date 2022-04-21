@@ -18,6 +18,21 @@ There were 333,200 individuals in the dataset. The columns were then pared down 
 
 ### Modeling and Evaluation
 
+Modeling began with the dataset split, scaled, transformed and smote'd.
+A Dummy Baseline was the first model and it resulted in a Train Accuracy of 50% and Test Accuracy of 6.8%. After One Hot Encoding I ran a Logistic Regression which resulted in a Train Accuracy of 75.45% and Test Accuracy of 89.33%. I followed up with a Decision Tree Classifier where milk, egg and peanut allergies occur at the highest frequency.
+
+This model can be applied to 
+
+In the future I would like to run an additional target also utilizing pre-existing traits of asthma and eczema as well in addition to having an adult dataset. Finally I would like to implement a risk level range estimation prediction.
 
 
-### Navigation
+
+## Repo Tree
+```
+├── Data                                 <- data folder
+├── .DS_Store                            <- DS_store
+├── .gitignore                           <- gitignore
+├── Final_Allergy_Prediction_Notebook    <- Main Notebook
+├── README.md                            <- readme overview
+└──                                      <- Presentation PDF
+```
