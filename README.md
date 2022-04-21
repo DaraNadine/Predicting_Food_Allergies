@@ -29,10 +29,12 @@ In the future I would like to run an additional target also utilizing pre-existi
 
 ## Repo Tree
 ```
-├── Data                                 <- data folder
-├── .DS_Store                            <- DS_store
-├── .gitignore                           <- gitignore
-├── Final_Allergy_Prediction_Notebook    <- Main Notebook
-├── README.md                            <- readme overview
-└──                                      <- Presentation PDF
+├── Data                                    <- data folder
+├── .DS_Store                               <- DS_store
+├── .gitignore                              <- gitignore
+├── Final_Allergy_Prediction_Notebook.pdf   <- PDF of Jupyter notebook
+├── Final_Allergy_Prediction_Notebook       <- Main Notebook
+├── README.md                               <- readme overview
+├── Anticipating Food allergies in childern <- Presentation PDF
+└──                             
 ```
