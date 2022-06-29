@@ -16,7 +16,10 @@ The stakeholder is Food Allergy Research & Education (FARE). The objective is to
 The dataset was obtained from [zenodo.org](https://zenodo.org/record/44529#.YmAFlZPMIiz). It entails information on food allergies alongside preexisting conditions on a peer reviewd study from the Children's Hospital of Philadelphia of patients born in 1983-2012. 
 There were 333,200 individuals in the dataset. The columns were then pared down as listed below.
 
-<img width="1012" alt="logreg" src="https://user-images.githubusercontent.com/53787104/176554744-c23aefc7-4fa2-494b-b40c-c586b24c32c4.png">
+<img width="370" alt="logreg_crop_cmatrix_curve" src="https://user-images.githubusercontent.com/53787104/176556799-2bcd512e-b1f6-4916-8430-c78c6c4b16a7.png">
+
+<img width="251" alt="logreg_crop_scores" src="https://user-images.githubusercontent.com/53787104/176556819-d6d45ecd-3eed-46c0-bb7f-d307f7a9b581.png">
+
 
 
 ### Modeling and Evaluation
