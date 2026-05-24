@@ -7,7 +7,7 @@
 ### Business Problem
 
 The prevalence of food allergies in children has increased at a rapid rate within the past couple of decades. "Between 1997 and 2011, food allergies among children increased 50% and now affect 6 million US children" [1]:[source](https://community.kidswithfoodallergies.org/blog/10-shareable-images-for-food-allergy-awareness-week-1). 
-As a millenial born in 1991, my elementary school experience was void of strict protocols on outside food, unlike the current school landscape. Classmates often had cupcakes or pizza brought in to celebrate birthdays and peanut butter crackers were the unofficial snack of field trips.
+As a millenial, my elementary school experience was void of strict protocols on outside food, unlike the current school landscape. Classmates often had cupcakes or pizza brought in to celebrate birthdays and peanut butter crackers were the unofficial snack of field trips.
 
 The stakeholder is Food Allergy Research & Education (FARE). The objective is to use existing data to predict and model patients' future food allergies. The ability to predict an increase of a specific food allergy identifies new trends and allows research to pivot and address them.
 
@@ -46,3 +46,9 @@ In the future I would like to run an additional target also utilizing pre-existi
 ├── presentation.pdf                        <- slideshow presentation pdf
 └──                             
 ```
+
+
+## Data
+Raw data is not included in this repository.
+Download the dataset from [Zenodo](https://zenodo.org/record/44529) 
+and place it in data/raw/.
